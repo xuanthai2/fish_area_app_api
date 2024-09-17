@@ -1,4 +1,7 @@
+using FishAreaApp.Data;
+using FishAreaApp.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace FishAreaApp.Controllers
 {
